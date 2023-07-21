@@ -1,4 +1,4 @@
-# CSharp-Number-Guessing-Game# C# Number Guessing Game
+# C# Number Guessing Game
 
 ![GitHub](https://img.shields.io/github/license/efeturkemir/CSharp-Number-Guessing-Game)
 ![GitHub last commit](https://img.shields.io/github/last-commit/efeturkemir/CSharp-Number-Guessing-Game)
